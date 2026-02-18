@@ -25,47 +25,7 @@ sources:
            description: ""
          - name: DOB
            description: ""
-         - name: SSN
-           description: ""
-         - name: EMAIL
-           description: ""
-         - name: SALUTATION
-           description: ""
-         - name: LABEL_CLUSTER_ID
-           description: ""
-         - name: PRAC_TYPE_ID
-           description: ""
-         - name: METADATA
-           description: ""
-         - name: STATUS
-           description: ""
-         - name: MDM_EUID
-           description: ""
-         - name: EUID
-           description: ""
-         - name: ROW_EFF_STRT_DT
-           description: ""
-         - name: ROW_EFF_END_DT
-           description: ""
-         - name: ROW_CREATED_TS
-           description: ""
          - name: REC_PRCS_TYP_CD
            description: ""
          - name: CUR_ROW_IND
-           description: ""
-         - name: CREAT_RUN_CYC_EXEC_SK
-           description: ""
-         - name: LST_UPDT_RUN_CYC_EXEC_SK
-           description: ""
-         - name: HASH_FULL_RECORD
-           description: ""
-         - name: REF_INSERT_TIMESTAMP
-           description: ""
-         - name: RAW_TO_REFINED_PIPELINE_RUNID
-           description: ""
-         - name: SOURCE_TIMESTAMP
-           description: ""
-         - name: SOURCE_NAME
-           description: ""
-         - name: DELETE_INDICATOR_FLAG
            description: ""
