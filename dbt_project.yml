@@ -48,7 +48,7 @@ models:
       +schema: STAGE
       +tags: "stage"
     
-    raw_vault:
+    dbt_vm:
       +materialized: incremental 
       +incremental_stratgey: append
       +on_schema_change: fail
