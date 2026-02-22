@@ -29,3 +29,10 @@ sources:
            description: ""
          - name: CUR_ROW_IND
            description: ""
+
+   - name: dbt_vm
+     database: RAW_VAULT
+     schema: dbt_vm
+     tables:
+      - name: dbt_dt_log
+        description: "control table"
